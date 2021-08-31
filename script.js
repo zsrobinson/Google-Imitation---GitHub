@@ -81,5 +81,6 @@ $("page-home-all-sites").addEventListener("click", function () {
 })
 
 $("page-result-google-logo").addEventListener("click", function () {
-	window.location.reload(true);
+	$("page-home-search-bar").value = "";
+	showHomePage();
 });
