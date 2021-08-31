@@ -1,0 +1,62 @@
+[
+	{
+		"name": "Wikipedia",
+		"url": "https://www.wikipedia.org",
+		"description": "Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation."
+	},
+	{
+		"name": "Google",
+		"url": "https://www.google.com",
+		"description": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for."
+	},
+	{
+		"name": "Instagram",
+		"url": "https://www.instagram.com",
+		"description": "Create an account or log in to Instagram - A simple, fun & creative way to capture, edit & share photos, videos & messages with friends & family."
+	},
+	{
+		"name": "Cisco Networking Academy",
+		"url": "https://www.netacad.com",
+		"description": "Cisco Networking Academy is a global IT and cybersecurity education program that partners with learning institutions around the world."
+	},
+	{
+		"name": "Facebook",
+		"url": "https://www.facebook.com",
+		"description": "Create an account or log into Facebook. Connect with friends, family and other people you know. Share photos and videos, send messages and get updates."
+	},
+	{
+		"name": "Google Classroom",
+		"url": "https://classroom.google.com",
+		"description": "Google Classroom is your central place where teaching and learning come together. This easy-to-use and secure tool helps educators manage, measure, ..."
+	},
+	{
+		"name": "Google Drive",
+		"url": "https://drive.google.com",
+		"description": "Drive provides encrypted and secure access to your files. Files shared with you are proactively scanned and removed when malware, spam, ransomware, ..."
+	},
+	{
+		"name": "Notion",
+		"url": "https://www.notion.so",
+		"description": "Too many tools? Too much chaos? With Notion, all your work is in one place. Get started for free. Better shared docs. All your projects tracked. Infinite flexibility. Hassle-free wiki software."
+	},
+	{
+		"name": "Discord",
+		"url": "https://www.discord.com",
+		"description": "Discord is the easiest way to talk over voice, video, and text. Talk, chat, hang out, and stay close with your friends and communities."
+	},
+	{
+		"name": "Amazon",
+		"url": "https://www.amazon.com",
+		"description": "Free shipping on millions of items. Get the best of Shopping and Entertainment with Prime. Enjoy low prices and great deals on the largest selection of ..."
+	},
+	{
+		"name": "YouTube",
+		"url": "https://www.youtube.com",
+		"description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+	},
+	{
+		"name": "DuckDuckGo — Privacy, simplified.",
+		"url": "https://www.duckduckgo.com",
+		"description": "The Internet privacy company that empowers you to seamlessly take control of your personal information online, without any tradeoffs."
+	}
+]

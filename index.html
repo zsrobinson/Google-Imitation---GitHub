@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto" />
+		<link rel="stylesheet" href="style.css" type="text/css" />
+		<link rel="stylesheet" href="icons\css\all.css" />
+		<script src="script.js" defer></script>
+		<title>Google</title>
+	</head>
+	<body>
+		<div class="page page-home">
+			<div class="page-home-main-content">
+				<img src="images/google.png" />
+				<div class="search-bar">
+					<i class="fas fa-search"></i>
+					<input
+						type="text"
+						autocapitalize="off"
+						autocomplete="off"
+						autocorrect="off"
+						spellcheck="false"
+						id="page-home-search-bar"
+					/>
+				</div>
+				<div class="page-home-main-content-buttons">
+					<button id="page-home-all-sites">View All Sites</button>
+					<button id="page-home-feeling-lucky">I'm Feeling Lucky</button>
+				</div>
+			</div>
+			<div class="page-home-footer">
+				<a href="https://www.github.com/zsrobinson">View This Project on Github</a>
+				<p>Created by Zachary Robinson</p>
+			</div>
+		</div>
+		<div class="page page-results hidden">
+			<div class="page-results-header">
+				<img src="images/google.png" id="page-result-google-logo"/>
+				<div class="search-bar">
+					<i class="fas fa-search"></i>
+					<input
+						type="text"
+						autocapitalize="off"
+						autocomplete="off"
+						autocorrect="off"
+						spellcheck="false"
+						id="page-result-search-bar"
+					/>
+				</div>
+				<!-- dark mode icon <i class="fas fa-adjust"></i> -->
+			</div>
+			<div class="blocks"></div>
+		</div>
+	</body>
+</html>
